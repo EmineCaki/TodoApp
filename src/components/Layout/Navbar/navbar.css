@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid 1px #e2e8f0;
+    padding: 20px;
+    align-items: center;
+}
+
+.right{
+    display: flex;
+}
+.right a:first-child{
+    margin-right: 7px;
+}
